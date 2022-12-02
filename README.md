@@ -17,3 +17,5 @@ Reporte final -> Reporte Final - TC3007C.pdf
 
 Archivo implementación WebCam -> FireDetection/main.py
 
+Archivo de entrenamiento de CNN -> Lightweight_CNN.ipynb
+
