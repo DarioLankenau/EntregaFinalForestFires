@@ -12,17 +12,13 @@ Josué Jemuel Flores Nestor - A01367182
 
 ## Estructura de repositorio
 
-Documento de requerimientos -> Requerimientos.pdf
-
-Documento de tecnologías usadas -> HerramientasTecnologicas.pdf
-
-Reporte final -> Reporte Final - TC3007C.pdf
-
-Archivo implementación WebCam -> FireDetection/main.py
-
-Archivo de entrenamiento de CNN -> Lightweight_CNN.ipynb
-
-Zonas de riesgo -> Link a código - Zonas de Riesgo - TC3007C.pdf
+- Documento de requerimientos -> `Requerimientos.pdf`
+- Documento de tecnologías usadas -> `HerramientasTecnologicas.pdf`
+- Reporte final -> `Reporte Final - TC3007C.pdf`
+- Archivo implementación WebCam -> `FireDetection/main.py`
+- Archivo de entrenamiento de CNN -> `Lightweight_CNN.ipynb`
+- Archivo de evaluación de CNN -> `Evaluacion.ipynb`
+- Zonas de riesgo -> Link a código - `Zonas de Riesgo - TC3007C.pdf`
 
 
 ## Presentación final
