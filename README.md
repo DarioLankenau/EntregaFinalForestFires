@@ -22,6 +22,8 @@ Archivo implementación WebCam -> FireDetection/main.py
 
 Archivo de entrenamiento de CNN -> Lightweight_CNN.ipynb
 
+Zonas de riesgo -> Link a código - Zonas de Riesgo - TC3007C.pdf
+
 
 ## Presentación final
 
