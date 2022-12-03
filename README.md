@@ -19,3 +19,7 @@ Archivo implementación WebCam -> FireDetection/main.py
 
 Archivo de entrenamiento de CNN -> Lightweight_CNN.ipynb
 
+
+## Presentación final
+
+[Video de presentacion final](https://youtu.be/Fq_DmQHMi54)
